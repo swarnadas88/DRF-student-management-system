@@ -53,7 +53,7 @@ body {
     box-sizing: border-box;
     padding: 12px 10px;
     background: #172554;
-    color: white;
+    color: rgb(255, 255, 255);
     overflow: hidden;
 }
 
@@ -74,7 +74,7 @@ body {
     text-align: left;
     padding: 6px 10px;
     border-radius: 6px;
-    color: #dbeafe;
+    color: #dbfafe;
     text-decoration: none;
     overflow-wrap: anywhere;
     font-size: 14px;
@@ -87,7 +87,7 @@ body {
 .sidebar a:hover,
 .sidebar a.active {
     background: #1d4ed8;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .sidebar .btn {
@@ -170,7 +170,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     background: white;
-    box-shadow: 0 2px 8px #0000000d;
+    box-shadow: 0 2px 8px #d61cae0d;
 }
 
 button {
@@ -210,7 +210,7 @@ button {
 .page-title {
     margin: 0 0 8px;
     font-size: 26px;
-    color: #111827;
+    color: #196454;
 }
 
 .page-description {
@@ -224,7 +224,7 @@ button {
     padding: 20px;
     border-radius: 10px;
     border: 1px solid #e5e7eb;
-    box-shadow: 0 2px 8px #0000000d;
+    box-shadow: 0 2px 8px #9712e40d;
 }
 
 /* Reusable buttons */
@@ -430,7 +430,7 @@ button {
 
 .not-found h2 {
     margin: 8px 0;
-    color: #111827;
+    color: #231127;
 }
 
 .not-found p {
